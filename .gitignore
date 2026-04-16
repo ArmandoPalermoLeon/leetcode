@@ -1,0 +1,6 @@
+# Ignore all files
+*
+# But do NOT ignore files with an extension (like .rs, .cpp, .md)
+!*.*
+# and do NOT ignore directories
+!*/
